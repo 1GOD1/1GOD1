@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1GOD1
 - 👀 I’m interested in ... creating a bright future for next generation
 - 🌱 I’m currently learning ...machine
-- 💞️ I’m looking to collaborate on ...anything i'm a architect
+- 💞️ I’m looking to collaborate on ...anything i'm an architect
 - 📫 How to reach me ...on github only
 
 <!---
